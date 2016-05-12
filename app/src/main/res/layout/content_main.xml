@@ -35,20 +35,20 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="22dp"
+                android:textSize="22sp"
                 android:paddingBottom="13dp"
                 android:textStyle="bold"
                 android:text="Udacity"/>
             <TextView
                 android:id="@+id/desc_text"
-                android:textSize="17dp"
+                android:textSize="17sp"
                 android:text="Udacity is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses (MOOCs)."
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/addr_text"
-                android:textSize="17dp"
+                android:textSize="17sp"
                 android:paddingTop="10dp"
                 android:text="Address: Mountain View, CA"
                 android:layout_width="match_parent"
